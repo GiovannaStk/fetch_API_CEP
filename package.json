@@ -1,0 +1,20 @@
+{
+  "name": "fetch_api_cep",
+  "version": "1.0.0",
+  "description": "Consumindo uma API de CEP no frontend<br />\r *Desenvolvido em aula Hcode\r <br/>\r API: viacep.com.br",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiovannaStk/fetch_API_CEP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiovannaStk/fetch_API_CEP/issues"
+  },
+  "homepage": "https://github.com/GiovannaStk/fetch_API_CEP#readme"
+}
